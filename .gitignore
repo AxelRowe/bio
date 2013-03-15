@@ -1,0 +1,40 @@
+<div id="impress">
+
+    <div class="step slide" data-x="1000" data-y="">
+        Como fabricar un dinosaurio
+    </div>
+
+    <div class="step slide" data-x="2000" data-y="">
+       en busca de un hogar
+    </div>
+
+    <div class="step" data-x="9000" data-y="5000" data-scale="1" data-z="-3000" data-rotate="190"
+         data-rotate-x="" data-rotate-y="90">
+        <http://1.bp.blogspot.com/-9sZjb_kbHAQ/TWJce3sQpDI/AAAAAAAADWI/kX1zh7xj6ok/s1600/T-Rex-JurassicPark.jpg/>
+    <div class="step" data-x="3000" data-y="" data-scale="20">
+       Indecisión
+    </div>
+
+    <div class="step" data-x="4000" data-y="3000" data-rotate="90" data-scale="5">
+        <p>O domesticación</p>
+    </div>
+
+    <div class="step" data-x="5500" data-y="2100" data-rotate="180" data-scale="10">
+        <p>paternidad</p>
+    </div>
+
+    <div class="step" data-x="9000" data-y="5000" data-scale="1" data-z="-500" data-rotate="190"
+         data-rotate-x="" data-rotate-y="0">
+        creación de un zoo
+    </div>
+ <div class="step" data-x="4000" data-y="3000" data-rotate="90" data-scale="5">
+        <p>O raptores locos</p>
+    </div>
+<div class="step" data-x="3000" data-y="" data-scale="20">
+       clima
+</div>
+div class="step" data-x="4000" data-y="3000" data-rotate="90" data-scale="5">
+        <p>O encontrando una isla</p>
+
+<script src="impress.js"></script>
+<script>impress().init();</script>
